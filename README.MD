@@ -1,4 +1,4 @@
-# converts a spaCy object into a pandas DataFrame
+# converts a spaCy ( @explosion ) object into a pandas DataFrame
 
 ## pip install spacy2df
 
