@@ -1,15 +1,15 @@
-# converts a spaCy ( @explosion ) object into a pandas DataFrame
+# converts a spaCy from @[explosion](https://github.com/explosion) object into a pandas DataFrame
 
 ## pip install spacy2df
 
 #### Tested against Windows 10 / Python 3.10 / Anaconda 
-@explosion
+
 	
 ```python
 import spacy
 from spacy2df import spacy2df
 
-# Load Spacy model and create a doc object
+# Load Spacy  model and create a doc object
 nlp = spacy.load(pt_core_news_sm)
 frase = Rede do Banco Itaú é bom
 doc = nlp(frase)
