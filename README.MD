@@ -3,7 +3,7 @@
 ## pip install spacy2df
 
 #### Tested against Windows 10 / Python 3.10 / Anaconda 
-
+@explosion
 	
 ```python
 import spacy
